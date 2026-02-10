@@ -1,6 +1,6 @@
 {
     "name": "casper-baileys",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Stable WhatsApp Web API with built-in button support, patched libsignal, and interactive messages - by Casper Tech Kenya",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
